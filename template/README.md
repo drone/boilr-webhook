@@ -25,3 +25,7 @@ Update your Drone server configuration to include the plugin address and the sha
 ```text
 DRONE_WEBHOOK_ENDPOINT=http://1.2.3.4:3000
 DRONE_WEBHOOK_SECRET=bea26a2221fd8090ea38720fc445eca6
+
+## License
+
+This software is subject to the terms of the Blue Oak Model License. If a copy of the license was not distributed with this project you can obtain one at https://blueoakcouncil.org/license/1.0.0.
