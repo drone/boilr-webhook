@@ -29,4 +29,4 @@ DRONE_WEBHOOK_SECRET=bea26a2221fd8090ea38720fc445eca6
 
 ## License
 
-This software is licensed under the Blue Oak Model License. You can find a copy of the license at: https://spdx.org/licenses/BlueOak-1.0.0.html.
+This software is licensed under the [Blue Oak Model License 1.0.0](https://spdx.org/licenses/BlueOak-1.0.0.html).
